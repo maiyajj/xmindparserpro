@@ -1,0 +1,2 @@
+# xmindparserpro
+基于xmindparser，在json和dict返回内增加了节点关系结构
